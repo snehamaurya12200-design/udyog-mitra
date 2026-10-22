@@ -1,0 +1,6 @@
+{
+  "name": "Udyog Mitra",
+  "description": "Your AI-Powered Business Companion. Helping small business owners manage everyday tasks, track performance, generate marketing content, and make informed decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
